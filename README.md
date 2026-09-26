@@ -18,6 +18,7 @@ Note: Only ONE person from each team should submit.
 * Inside this folder, create a folder for the project you want to submit. Eg: If you want to submit the digital clock project, make the subfolder named `digital_clock`.
 * Inside this project folder, upload all relevant files. Note that any files not uploaded and submitted in time will not be considered for evaluation later. Also, all files uploaded here will be used for the viva, so do not upload content you are not confident in.
 
+
 Example overall structure:
 ```
 .
