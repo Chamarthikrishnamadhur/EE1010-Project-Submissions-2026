@@ -1,0 +1,5 @@
+References:
+	Github(pt100):Circuit diagram and LSQ
+	Chatgpt:(Matrix Calculation for LSQ )
+	Meshy.ai:3D Model Generation
+	circuitschools:LCD Basics
